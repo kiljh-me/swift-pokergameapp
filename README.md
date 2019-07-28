@@ -1,7 +1,7 @@
 # 포커게임
 
 ## 실행화면
-<img src="https://github.com/kiljh-me/swift-pokergameapp/blob/master/pokerGame.gif" width="414" height="736">
+<img src="https://github.com/kiljh-me/swift-pokergameapp/blob/master/pokerGame.gif" width="300" height="600">
 
 ## 15-1
 <img src="https://github.com/kiljh-me/swift-pokergameapp/blob/master/15-1.png" width="414" height="736">
